@@ -37,6 +37,13 @@ Spacing system (px)
   box-sizing: border-box;
 }
 
+html{
+  /* 10 / 16 = 0.625 = 62.5% */
+  /* Percentage of user's browser font-size setting */
+  font-size: 62.5%;
+ 
+}
+
 body {
   font-family: sans-serif;
   line-height: 1;
