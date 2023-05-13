@@ -26,6 +26,7 @@ Paragraph default: 1.6
 - Tints:
     #fdf2e9  
     #fae5d3
+    #eb984e
 - Shades: #cf711f
 - Accents
 - Greys
@@ -35,6 +36,7 @@ Paragraph default: 1.6
 #888
 
 --- 05 SHADOWS
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
 
 --- O6 BORDER-RADIUS
   Default: 9px
