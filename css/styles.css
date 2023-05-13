@@ -163,7 +163,6 @@
 }
 
 .step-img-box {
-
   position: relative;
 
   display: flex;
@@ -180,7 +179,6 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
 }
 
 .step-img-box::before {
@@ -204,7 +202,6 @@
   width: 35%;
 }
 
-
 /* ************************** */
 /* MEALS SECTION */
 /* ************************** */
@@ -223,7 +220,6 @@
 .meal:hover {
   transform: translateY(-1.2rem);
   box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
-
 }
 
 .meal-content {
@@ -277,45 +273,21 @@
   display: flex;
   align-items: center;
   gap: 1.6rem;
-
 }
 
 .meal-icon {
   height: 2.4rem;
   width: 2.4rem;
   color: #e67e22;
-
 }
 
 .meal-img {
   width: 100%;
-
 }
 
 .all-recipe {
   text-align: center;
   font-size: 1.8rem;
-
-}
-
-.list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 1.6rem;
-}
-
-.list-item {
-  font-size: 1.8rem;
-  display: flex;
-  align-items: center;
-  gap: 1.6rem;
-}
-
-.list-icon {
-  width: 3rem;
-  height: 3rem;
-  color: #e67e22
 }
 
 /* ************************** */
@@ -375,4 +347,50 @@
 
 .gallery-item img:hover {
   transform: scale(1.1);
+}
+
+/* ************************** */
+/* PRICING SECTION */
+/* ************************** */
+
+.section-pricing {
+  padding: 9.6rem 0;
+}
+
+.plan-header {
+  text-align: center;
+  margin-bottom: 4.8rem;
+}
+
+.plan-name{
+  color: #cf711f;
+  font-weight: 800;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.79;
+  margin-bottom: 3.2rem;
+}
+.plan-price{
+  font-size: 7.2rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1.6rem;
+
+}
+
+.plan-price span {
+  font-size: 3rem;
+  font-weight: 500;
+  margin-right: 0.8rem;
+}
+
+.plan-text{
+  font-size: 1.6rem;
+  line-height: 1.6;
+  color: #6f6f6f;
+}
+
+.plan-sign-up {
+  text-align: center;
+  margin-top: 4.8rem;
 }
