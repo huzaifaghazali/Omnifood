@@ -32,10 +32,11 @@ Paragraph default: 1.6
     #45260a
 - Accents
 - Greys
-    #6f6f6f  (lightest grey allowed on #fdf2e9)
+    #888
+    #767676 (lightest grey allowed on white)
+    #6f6f6f (lightest grey allowed on #fdf2e9)
     #555
     #333
-    #888
 
 --- 05 SHADOWS
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
