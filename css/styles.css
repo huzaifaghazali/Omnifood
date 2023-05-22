@@ -613,6 +613,11 @@
 .social-icon {
   width: 2.4rem;
   height: 2.4rem;
+  transition: all .4s;
+}
+
+.social-icon:hover {
+  transform: rotate(360deg);
 }
 
 .copyright {
