@@ -1,5 +1,4 @@
 # Omnifood
-
 Omnifood is a responsive website developed using HTML and CSS, incorporating flexbox and grid layout techniques. It is a technology-driven platform with a strong emphasis on promoting consumer well-being through a healthy diet. 
 
 ## About Omnifood
@@ -21,4 +20,29 @@ The following technologies were used in the development of Omnifood:
 
 * HTML5: Used for structuring the website.
 * CSS3: Used for styling and layout, including the flexbox and grid layout techniques.
-* JavaScript: Used for interactivity and functionality 
+* JavaScript: Used for interactivity and functionality
+
+## Pictures
+  1.
+  ![1](https://github.com/huzaifaghazali/Omnifood/assets/63412385/96d65be8-6b49-4ffa-b1c6-18d93a12906b)
+
+  2.
+  ![2](https://github.com/huzaifaghazali/Omnifood/assets/63412385/424b897e-bf80-4433-a5ad-56bd8593a63c)
+
+  3.
+  ![3](https://github.com/huzaifaghazali/Omnifood/assets/63412385/7be4d6c3-ab49-4dd6-b651-e7bcc256f0a9)
+
+  4.
+  ![4](https://github.com/huzaifaghazali/Omnifood/assets/63412385/a792483d-fadb-4344-b51c-36a44f01b5e8)
+
+  5.
+  ![5](https://github.com/huzaifaghazali/Omnifood/assets/63412385/f71d65f5-ca0b-4d86-95c9-dce368d025b3)
+
+  6.
+  ![6](https://github.com/huzaifaghazali/Omnifood/assets/63412385/97b5df76-4427-4897-b996-452d74da222b)
+
+  7.
+  ![7](https://github.com/huzaifaghazali/Omnifood/assets/63412385/a110315c-20ce-4b47-9adf-266a9acd2b31)
+
+  8.
+  ![8](https://github.com/huzaifaghazali/Omnifood/assets/63412385/9e501c9c-fcaa-44b2-bd33-6022c096481d)
